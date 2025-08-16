@@ -1,5 +1,4 @@
 # GitHub Activity Tracker
-=======
 
 A high-performance Spring Boot microservice that provides paginated access to GitHub repository and commit data through a Redis-first architecture. Built for scalability and optimized for low-latency read operations.
 
