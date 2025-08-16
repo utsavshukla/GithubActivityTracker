@@ -111,10 +111,11 @@ Authorization: Bearer {PAT}
   "message": "Invalid Personal Access Token",
   "status": 401
 }
+```
 
 <img width="1040" height="806" alt="image" src="https://github.com/user-attachments/assets/442a1a13-5b37-4316-a1ba-337b271ab800" />
 
-
+```
 // 429 Rate Limited
 {
   "error": "Rate Limit Exceeded", 
