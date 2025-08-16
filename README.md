@@ -72,6 +72,8 @@ Authorization: Bearer {PAT}
   "hasPrevious": false
 }
 ```
+<img width="1040" height="806" alt="image" src="https://github.com/user-attachments/assets/26a0e7bf-678e-4edb-adc7-5ffe4b1650e7" />
+
 
 ### Repository Commits
 ```http
@@ -98,6 +100,8 @@ Authorization: Bearer {PAT}
   "hasPrevious": false
 }
 ```
+<img width="1040" height="806" alt="image" src="https://github.com/user-attachments/assets/523fd4a9-058e-4c1f-b2dd-08aef5071307" />
+
 
 ### Error Responses
 ```json
@@ -108,6 +112,9 @@ Authorization: Bearer {PAT}
   "status": 401
 }
 
+<img width="1040" height="806" alt="image" src="https://github.com/user-attachments/assets/442a1a13-5b37-4316-a1ba-337b271ab800" />
+
+
 // 429 Rate Limited
 {
   "error": "Rate Limit Exceeded", 
@@ -116,6 +123,8 @@ Authorization: Bearer {PAT}
   "status": 429
 }
 ```
+<img width="1040" height="806" alt="image" src="https://github.com/user-attachments/assets/42de4898-21b3-40f4-9d3e-d60d778c53dd" />
+
 
 ## ⚙️ Configuration
 
